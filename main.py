@@ -1,0 +1,1 @@
+from src.inproject.config.configuration import main
