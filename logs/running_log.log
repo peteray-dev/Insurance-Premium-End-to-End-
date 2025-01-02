@@ -6,3 +6,103 @@
 [2025-01-01 17:29:07,340: INFO: common: yaml file: config\config.yaml loaded successfully]
 [2025-01-01 17:29:17,568: INFO: common: yaml file: config\config.yaml loaded successfully]
 [2025-01-01 17:29:34,568: INFO: common: yaml file: config\config.yaml loaded successfully]
+[2025-01-01 17:32:37,842: INFO: common: yaml file: config\config.yaml loaded successfully]
+[2025-01-01 17:32:37,852: INFO: common: yaml file: params.yaml loaded successfully]
+[2025-01-01 17:32:37,852: INFO: common: yaml file: schema.yaml loaded successfully]
+[2025-01-01 17:33:16,193: INFO: common: yaml file: config\config.yaml loaded successfully]
+[2025-01-01 17:33:16,198: INFO: common: yaml file: params.yaml loaded successfully]
+[2025-01-01 17:33:16,202: INFO: common: yaml file: schema.yaml loaded successfully]
+[2025-01-01 17:34:08,085: INFO: common: yaml file: config\config.yaml loaded successfully]
+[2025-01-01 17:34:08,089: INFO: common: yaml file: params.yaml loaded successfully]
+[2025-01-01 17:34:08,089: INFO: common: yaml file: schema.yaml loaded successfully]
+[2025-01-01 17:34:08,095: INFO: common: created directory at: artifacts]
+[2025-01-01 17:34:08,096: INFO: common: created directory at: artifacts/data_ingestion]
+[2025-01-01 17:34:09,083: INFO: 2239081677: artifacts/data_ingestion/data.zip downloaded with the following info Content-Type: text/html; charset=utf-8
+Date: Wed, 01 Jan 2025 17:34:08 GMT
+Cache-Control: no-cache, no-store
+Pragma: no-cache
+Set-Cookie: ka_sessionid=7702ae77f552e5f874b832aa26d6424a; max-age=2626560; path=/
+Set-Cookie: CSRF-TOKEN=CfDJ8L3o_FPsMQlKvPRAcaVvXWMW6D543bZNNvXC7NhgKg1C3kGa9E6ZNyCYb5TdT-1apKVNLjef9jakhdqKiC1B3oi8jz730pJzRG5P45kmag; path=/; secure; samesite=strict; httponly
+Set-Cookie: XSRF-TOKEN=CfDJ8L3o_FPsMQlKvPRAcaVvXWNadPcKTp82fhDvEfLwU-CpuutH9j34viO60ESuHEe-bhtS--_R9h_UJ_N6xzVFj14aCFp-rX1N8oMQ_og7iwKtJw; path=/; secure; samesite=strict
+Set-Cookie: CLIENT-TOKEN=eyJhbGciOiJub25lIiwidHlwIjoiSldUIn0.eyJpc3MiOiJrYWdnbGUiLCJhdWQiOiJjbGllbnQiLCJzdWIiOiIiLCJuYnQiOiIyMDI1LTAxLTAxVDE3OjM0OjA5LjI4ODI3MTRaIiwiaWF0IjoiMjAyNS0wMS0wMVQxNzozNDowOS4yODgyNzE0WiIsImp0aSI6IjM3MTI1N2NjLWU1MDQtNDk0Yi05OThlLTRhNDkyNGQyZTY3ZCIsImV4cCI6IjIwMjUtMDItMDFUMTc6MzQ6MDkuMjg4MjcxNFoiLCJhbm9uIjp0cnVlLCJmZiI6WyJDb21wZXRpdGlvblNpbXVsYXRpb25TZXR0aW5ncyIsIktlcm5lbHNMc3BVcGRhdGVkIiwiS2VybmVsVmlld2VyRGV0YWlsVXBkYXRlIiwiS2VybmVsc0ZpcmViYXNlTG9uZ1BvbGxpbmciLCJBbGxvd0ZvcnVtQXR0YWNobWVudHMiLCJGcm9udGVuZEVycm9yUmVwb3J0aW5nIiwiRGF0YXNldFVwbG9hZGVyRHVwbGljYXRlRGV0ZWN0aW9uIiwiTGlua09wZW5NbERhdGFzZXRzIiwiRGF0YXNldFZlcnNpb25zSW5GbGlnaHQiLCJCYWRnZXMiLCJNZXRhc3RvcmVDaGVja0FnZ3JlZ2F0ZUZpbGVIYXNoZXMiLCJDaGVja0VmZmljaWVudEV4dGVuc2lvbnMiLCJVc2VyTGljZW5zZUFncmVlbWVudFN0YWxlbmVzc1RyYWNraW5nIiwiQ29tbXVuaXR5Q29tcGV0aXRpb25Qcml6ZSIsIkFkbWluT25seU9yZ2FuaXphdGlvbkNyZWF0aW9uIiwiTmV3T3JnYW5pemF0aW9uUmVxdWVzdEZvcm0iLCJGYWN0QmVuY2hMZWFkZXJib2FyZCJdLCJmZmQiOnsiS2VybmVsRWRpdG9yQXV0b3NhdmVUaHJvdHRsZU1zIjoiMzAwMDAiLCJQaW5Gb3J1bU1lc3NhZ2VzIjoicHJpdmF0ZSIsIkFkbWluTW92ZUZvcnVtVG9waWNzIjoicHJpdmF0ZSIsIkVtZXJnZW5jeUFsZXJ0QmFubmVyIjoie30iLCJDbGllbnRScGNSYXRlTGltaXRRcHMiOiI0MCIsIkNsaWVudFJwY1JhdGVMaW1pdFFwbSI6IjUwMCIsIkZlYXR1cmVkQ29tbXVuaXR5Q29tcGV0aXRpb25zIjoiNjAwOTUsNTQwMDAsNTcxNjMsODA4NzQsODE3ODYsODE3MDQsODI2MTEsODUyMTAiLCJBZGRGZWF0dXJlRmxhZ3NUb1BhZ2VMb2FkVGFnIjoiZGlzYWJsZWQiLCJNb2RlbEluZmVyZW5jZVBhcmFtZXRlcnMiOiJ7IFwibWF4X3Rva2Vuc1wiOiAxMjgsIFwidGVtcGVyYXR1cmVcIjogMC40LCBcInRvcF9rXCI6IDUgfSIsIkNvbXBldGl0aW9uTWV0cmljVGltZW91dE1pbnV0ZXMiOiIzMCIsIktlcm5lbHNMNEdQVUNvbXBzIjoiODYwMjMsODQ3OTUsODg5MjUiLCJTcG90bGlnaHRDb21tdW5pdHlDb21wZXRpdGlvbnMiOiI4NTg3LDI3NTI0In0sInBpZCI6ImthZ2dsZS0xNjE2MDciLCJzdmMiOiJ3ZWItZmUiLCJzZGFrIjoiQUl6YVN5QTRlTnFVZFJSc2tKc0NaV1Z6LXFMNjU1WGE1SkVNcmVFIiwiYmxkIjoiNzZhZjJlMzUxMzQ0MWZjMjc4NTk4Yjg3OTRmNjkxZTA4YmQ3YTZjYyJ9.; path=/; secure; samesite=lax
+Set-Cookie: GCLB=CKrImseqwsuaTxAD; path=/; HttpOnly
+Vary: Accept-Encoding
+X-Frame-Options: SAMEORIGIN
+Strict-Transport-Security: max-age=63072000; includeSubDomains; preload
+Content-Security-Policy: object-src 'none'; script-src 'nonce-FkVwuap0+37kRdkjwjrRTg==' 'report-sample' 'unsafe-inline' 'unsafe-eval' 'strict-dynamic' https: http:; base-uri 'none'; report-uri https://csp.withgoogle.com/csp/kaggle/20201130; frame-src 'self' https://www.kaggleusercontent.com https://www.youtube.com/embed/ https://polygraph-cool.github.io https://www.google.com/recaptcha/ https://www.docdroid.com https://www.docdroid.net https://kaggle-static.storage.googleapis.com https://kkb-production.jupyter-proxy.kaggle.net https://kkb-production.firebaseapp.com https://kaggle-metastore.firebaseapp.com https://apis.google.com https://content-sheets.googleapis.com/ https://accounts.google.com/ https://storage.googleapis.com https://docs.google.com https://drive.google.com https://calendar.google.com/ https://google.qualtrics.com/ ;
+X-Content-Type-Options: nosniff
+Referrer-Policy: strict-origin-when-cross-origin
+Via: 1.1 google
+Alt-Svc: h3=":443"; ma=2592000,h3-29=":443"; ma=2592000
+Connection: close
+Transfer-Encoding: chunked
+
+]
+[2025-01-02 01:40:52,352: INFO: common: yaml file: config\config.yaml loaded successfully]
+[2025-01-02 01:40:52,358: INFO: common: yaml file: params.yaml loaded successfully]
+[2025-01-02 01:40:52,361: INFO: common: yaml file: schema.yaml loaded successfully]
+[2025-01-02 01:40:52,367: INFO: common: created directory at: artifacts]
+[2025-01-02 01:40:52,371: INFO: common: created directory at: artifacts/data_ingestion]
+[2025-01-02 01:43:26,848: INFO: common: yaml file: config\config.yaml loaded successfully]
+[2025-01-02 01:43:26,854: INFO: common: yaml file: params.yaml loaded successfully]
+[2025-01-02 01:43:26,855: INFO: common: yaml file: schema.yaml loaded successfully]
+[2025-01-02 01:43:26,860: INFO: common: created directory at: artifacts]
+[2025-01-02 01:43:26,864: INFO: common: created directory at: artifacts/data_ingestion]
+[2025-01-02 01:47:45,486: INFO: common: yaml file: config\config.yaml loaded successfully]
+[2025-01-02 01:47:45,491: INFO: common: yaml file: params.yaml loaded successfully]
+[2025-01-02 01:47:45,494: INFO: common: yaml file: schema.yaml loaded successfully]
+[2025-01-02 01:47:45,494: INFO: common: created directory at: artifacts]
+[2025-01-02 01:47:45,494: INFO: common: created directory at: artifacts/data_ingestion]
+[2025-01-02 01:49:58,184: INFO: common: yaml file: config\config.yaml loaded successfully]
+[2025-01-02 01:49:58,189: INFO: common: yaml file: params.yaml loaded successfully]
+[2025-01-02 01:49:58,190: INFO: common: yaml file: schema.yaml loaded successfully]
+[2025-01-02 01:49:58,196: INFO: common: created directory at: artifacts]
+[2025-01-02 01:49:58,198: INFO: common: created directory at: artifacts/data_ingestion]
+[2025-01-02 02:05:42,830: INFO: common: yaml file: config\config.yaml loaded successfully]
+[2025-01-02 02:05:42,857: INFO: common: yaml file: params.yaml loaded successfully]
+[2025-01-02 02:05:42,863: INFO: common: yaml file: schema.yaml loaded successfully]
+[2025-01-02 02:05:42,863: INFO: common: created directory at: artifacts]
+[2025-01-02 02:05:42,871: INFO: common: created directory at: artifacts/data_ingestion]
+[2025-01-02 02:08:49,067: INFO: common: yaml file: config\config.yaml loaded successfully]
+[2025-01-02 02:08:49,069: INFO: common: yaml file: params.yaml loaded successfully]
+[2025-01-02 02:08:49,071: INFO: common: yaml file: schema.yaml loaded successfully]
+[2025-01-02 02:08:49,072: INFO: common: created directory at: artifacts]
+[2025-01-02 02:08:49,074: INFO: common: created directory at: artifacts/data_ingestion]
+[2025-01-02 02:14:26,552: INFO: common: yaml file: config\config.yaml loaded successfully]
+[2025-01-02 02:14:26,564: INFO: common: yaml file: params.yaml loaded successfully]
+[2025-01-02 02:14:26,566: INFO: common: yaml file: schema.yaml loaded successfully]
+[2025-01-02 02:14:26,567: INFO: common: created directory at: artifacts]
+[2025-01-02 02:14:26,569: INFO: common: created directory at: artifacts/data_ingestion]
+[2025-01-02 02:14:46,497: INFO: 27289128: data downloaded succesfully ]
+[2025-01-02 02:14:52,793: INFO: common: yaml file: config\config.yaml loaded successfully]
+[2025-01-02 02:14:52,796: INFO: common: yaml file: params.yaml loaded successfully]
+[2025-01-02 02:14:52,798: INFO: common: yaml file: schema.yaml loaded successfully]
+[2025-01-02 02:14:52,799: INFO: common: created directory at: artifacts]
+[2025-01-02 02:14:52,801: INFO: common: created directory at: artifacts/data_ingestion]
+[2025-01-02 02:14:55,528: INFO: 27289128: data downloaded succesfully ]
+[2025-01-02 02:17:49,854: INFO: common: yaml file: config\config.yaml loaded successfully]
+[2025-01-02 02:17:49,856: INFO: common: yaml file: params.yaml loaded successfully]
+[2025-01-02 02:17:49,859: INFO: common: yaml file: schema.yaml loaded successfully]
+[2025-01-02 02:17:49,861: INFO: common: created directory at: artifacts]
+[2025-01-02 02:17:49,862: INFO: common: created directory at: artifacts/data_ingestion]
+[2025-01-02 02:18:10,091: INFO: 2452134524: data downloaded succesfully ]
+[2025-01-02 02:50:34,200: INFO: main: >>>>>>>Data Ingestion Stage started>>>>>>>>]
+[2025-01-02 02:50:34,200: ERROR: main: DataIngestionTrainingPipeline.main() missing 1 required positional argument: 'self']
+Traceback (most recent call last):
+  File "C:\Users\user\Desktop\Insurance E2E ML\Insurance-Premium-End-to-End-\main.py", line 9, in <module>
+    data_ingestion.main()
+TypeError: DataIngestionTrainingPipeline.main() missing 1 required positional argument: 'self'
+[2025-01-02 02:53:21,799: INFO: main: >>>>>>>Data Ingestion Stage started>>>>>>>>]
+[2025-01-02 02:53:21,800: ERROR: main: DataIngestionTrainingPipeline.main() missing 1 required positional argument: 'self']
+Traceback (most recent call last):
+  File "C:\Users\user\Desktop\Insurance E2E ML\Insurance-Premium-End-to-End-\main.py", line 9, in <module>
+    data_ingestion.main()
+TypeError: DataIngestionTrainingPipeline.main() missing 1 required positional argument: 'self'
+[2025-01-02 03:05:22,644: INFO: main: >>>>>>>Data Ingestion Stage started>>>>>>>>]
+[2025-01-02 03:05:22,646: INFO: common: yaml file: config\config.yaml loaded successfully]
+[2025-01-02 03:05:22,648: INFO: common: yaml file: params.yaml loaded successfully]
+[2025-01-02 03:05:22,650: INFO: common: yaml file: schema.yaml loaded successfully]
+[2025-01-02 03:05:22,650: INFO: common: created directory at: artifacts]
+[2025-01-02 03:05:22,652: INFO: common: created directory at: artifacts/data_ingestion]
+[2025-01-02 03:05:47,152: INFO: data_ingestion: data downloaded succesfully ]
+[2025-01-02 03:05:51,328: INFO: main: >>>>>>stage Data Ingestion Stage completed >>>>>>>]

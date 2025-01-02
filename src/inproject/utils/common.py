@@ -4,7 +4,7 @@ import os
 from box.exceptions import BoxValueError
 import yaml
 # from inproject.logging import logger
-from src.inproject.logging import logger
+from inproject.logging import logger
 import json
 import joblib
 from ensure import ensure_annotations
